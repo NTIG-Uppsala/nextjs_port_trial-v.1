@@ -1,0 +1,13 @@
+{
+    "type": [ 
+        {
+            "type": "Mindre bil"
+        },
+        {
+            "type": "Större bil"
+        },
+        {
+            "type": "Husbil"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "fuel": [
+        {
+            "fuel": "Bensin"
+        },
+        {
+            "fuel": "Hybrid"
+        },
+        {
+            "fuel": "El"
+        },
+        {
+            "fuel": "Diesel"
+        },
+        {
+            "fuel": "Mildhybrid"
+        }
+    ]
+}

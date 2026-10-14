@@ -1,0 +1,10 @@
+{
+    "pricerange": [
+        {
+            "pricerange": "budget"
+        },
+        {
+            "pricerange": "premium"
+        }
+    ]
+}
